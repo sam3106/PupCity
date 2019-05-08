@@ -1,0 +1,31 @@
+#header-background{
+  width: 100%;
+  background-image: url('');
+}
+header {
+  width: 80%;
+  margin: 5vh auto 0 auto;
+}
+#logo-container {
+  width: 50%;
+  display: inline-block;
+}
+#logo-container img {
+  width: 5%;
+  min-width: 50px;
+}
+#logo-container h4 {
+  display: inline-block;
+  vertical-align: top;
+}
+nav {
+  float: right;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+}
+nav li {
+  display: inline-block;
+  padding: 14px 16px;
+}
